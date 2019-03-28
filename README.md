@@ -8,6 +8,7 @@ Jennifer Huck
 Orginial Cav Daily Database:
 
 * none found
+* Note the URL for the 2016-2017 salaries index: http://www.cavalierdaily.com/page/faculty-salaries-2015-2016.  They over-wrote the previous year. Details from 2017 articles match the index, but 2016 articles do not.  
 
 Cav Daily Articles: 
 
