@@ -12,9 +12,9 @@ Orginial Cav Daily Database:
 
 Cav Daily Articles: 
 
-* Smith, Kathleen.  "Average salary not affected by new hires."  The Cavalier Daily. Published on 2016-04-04.  Retrieved on 2019-03-28. http://www.cavalierdaily.com/article/2016/04/average-salary-not-affected-by-new-hires
+* Smith, Kathleen.  "Average salary not affected by new hires."  _The Cavalier Daily_. Published on 2016-04-04.  Retrieved on 2019-03-28. http://www.cavalierdaily.com/article/2016/04/average-salary-not-affected-by-new-hires
 
-* Felice, Mark.  "A gender gap in faculty salaries."  The Cavalier Daily. Published on 2016-04-04.  Retrieved on 2019-03-28. http://www.cavalierdaily.com/article/2016/04/a-gender-gap-in-faculty-salaries
+* Felice, Mark.  "A gender gap in faculty salaries."  _The Cavalier Daily_. Published on 2016-04-04.  Retrieved on 2019-03-28. http://www.cavalierdaily.com/article/2016/04/a-gender-gap-in-faculty-salaries
 
 Full issue: 
 
